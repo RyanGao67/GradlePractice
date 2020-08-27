@@ -1,0 +1,3 @@
+rootProject.name = 'gradleproject0826'
+include 'json-display'
+
